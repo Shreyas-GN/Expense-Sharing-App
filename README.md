@@ -11,3 +11,4 @@ Clone the repository.
 Run the expense_sharing_app.py file.
 Follow the prompts to add users, add expenses, and view balances.
 Feel free to contribute and improve this expense sharing app!
+Thank You!
